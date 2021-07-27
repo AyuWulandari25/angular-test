@@ -1,0 +1,35 @@
+.grid {
+  margin: 10px 10px 10px 10px;
+}
+.example-card {
+  max-width: 40rem;
+  max-height: 40rem;
+  width: 500px;
+  height: 200px;
+  background-color: #808080;
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+.title {
+  font-size: 10px;
+  font-weight: 600;
+  text-align: center;
+  color: white;
+}
+hr {
+  color: white;
+}
+.name {
+  font-size: 10px;
+  text-align: center;
+  line-height: 10px;
+  color: white;
+}
+
+.level,
+.category {
+  font-size: 10px;
+  text-align: center;
+  color: white;
+}
